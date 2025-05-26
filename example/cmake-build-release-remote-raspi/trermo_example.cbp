@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trermo_example"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thermo">
+				<Option output="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/libthermo.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 thermo"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thermo/fast">
+				<Option output="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/libthermo.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 thermo/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trermo_example">
+				<Option output="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/trermo_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 trermo_example"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trermo_example/fast">
+				<Option output="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/trermo_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 trermo_example/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/example/main.cpp">
+			<Option target="trermo_example"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/src/data_handler.cpp">
+			<Option target="thermo"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/src/data_handler.h">
+			<Option target="thermo"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/src/thermodata_handler.cpp">
+			<Option target="thermo"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/src/thermodata_handler.h">
+			<Option target="thermo"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.FJpfvC2SJj/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthermo.a CMakeFiles/thermo.dir/tmp/tmp.FJpfvC2SJj/src/data_handler.cpp.o CMakeFiles/thermo.dir/tmp/tmp.FJpfvC2SJj/src/thermodata_handler.cpp.o
+/usr/bin/ranlib libthermo.a
