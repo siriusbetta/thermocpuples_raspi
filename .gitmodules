@@ -1,0 +1,9 @@
+[submodule "MCP23017_raspi"]
+	path = MCP23017_raspi
+	url = git@github.com:siriusbetta/MCP23017_raspi.git
+[submodule "MAX31855_raspi"]
+	path = MAX31855_raspi
+	url = git@github.com:siriusbetta/MAX31855_raspi.git
+[submodule "spi"]
+	path = spi
+	url = https://github.com/azorg/spi.git

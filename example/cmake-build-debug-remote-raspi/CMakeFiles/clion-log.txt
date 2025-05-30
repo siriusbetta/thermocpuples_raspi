@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/tmp.FJpfvC2SJj/example
--- Configuring done
--- Generating done
--- Build files have been written to: /tmp/tmp.FJpfvC2SJj/example/cmake-build-debug-remote-raspi

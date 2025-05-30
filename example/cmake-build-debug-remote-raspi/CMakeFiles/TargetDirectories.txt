@@ -1,4 +1,0 @@
-/tmp/tmp.FJpfvC2SJj/example/cmake-build-debug-remote-raspi/CMakeFiles/thermo.dir
-/tmp/tmp.FJpfvC2SJj/example/cmake-build-debug-remote-raspi/CMakeFiles/trermo_example.dir
-/tmp/tmp.FJpfvC2SJj/example/cmake-build-debug-remote-raspi/CMakeFiles/edit_cache.dir
-/tmp/tmp.FJpfvC2SJj/example/cmake-build-debug-remote-raspi/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/trermo_example.dir/main.cpp.o -o trermo_example  libthermo.a 

@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /tmp/tmp.FJpfvC2SJj/example
--- Configuring done
--- Generating done
--- Build files have been written to: /tmp/tmp.FJpfvC2SJj/example/cmake-build-release-remote-raspi
